@@ -1,0 +1,1 @@
+In TypeScript (and JavaScript in general), async/await provides a cleaner and more readable way to handle asynchronous operations compared to using callbacks or directly working with promises. Here’s a breakdown of how async/await works and how it improves code readability and error handling over callbacks and promises.
